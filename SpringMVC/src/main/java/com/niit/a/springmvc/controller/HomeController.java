@@ -14,4 +14,9 @@ public class HomeController {
 		model.addAttribute("d", new java.util.Date());
 		return "home";
 	}
+
+	@RequestMapping("/hello")
+	public String showSecond() {
+		return "second";
+	}
 }

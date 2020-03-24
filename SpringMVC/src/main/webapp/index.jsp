@@ -4,5 +4,8 @@
 	<br>
 	<br>
 	<a href="shHome">Homepage</a>
+	<br>
+	<a href="hello">Click here for one more view</a>
+
 </body>
 </html>

@@ -7,10 +7,10 @@
 <title>Home</title>
 </head>
 <body>
-
-	<h3>Welcome to ${user} homepage</h3>
-	<h3>Page Served on ${d}</h3>
-
+	<center>
+		<h3>Welcome ${user}, How're you?</h3>
+		<h3>Page Served on ${d}</h3>
+	</center>
 
 </body>
 </html>
