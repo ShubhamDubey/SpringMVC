@@ -11,6 +11,7 @@ public class HomeController {
 	@RequestMapping(value = "/shHome", method = RequestMethod.GET)
 	public String showHome(ModelMap model) {
 		model.addAttribute("user", "Shubham");
+		model.addAttribute("d", new java.util.Date());
 		return "home";
 	}
 }

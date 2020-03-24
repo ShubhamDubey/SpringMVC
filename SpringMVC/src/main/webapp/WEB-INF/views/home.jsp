@@ -9,6 +9,7 @@
 <body>
 
 	<h3>Welcome to ${user} homepage</h3>
+	<h3>Page Served on ${d}</h3>
 
 
 </body>
