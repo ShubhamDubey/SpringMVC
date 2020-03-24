@@ -1,5 +1,8 @@
 <html>
 <body>
-	<h2>Hello World!</h2>
+	<h2>Spring Hello World!</h2>
+	<br>
+	<br>
+	<a href="shHome">Homepage</a>
 </body>
 </html>
