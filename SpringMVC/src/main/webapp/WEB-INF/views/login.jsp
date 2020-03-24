@@ -14,7 +14,8 @@
 
 	<form>
 		<div class="imgcontainer">
-			<img src="img_avatar2.png" alt="Avatar" class="avatar">
+			<img src="<c:url value="/resources/images/img_avatar2.png"/>"
+				alt="Avatar" height="150" width="150" class="avatar">
 		</div>
 
 		<div class="container">
