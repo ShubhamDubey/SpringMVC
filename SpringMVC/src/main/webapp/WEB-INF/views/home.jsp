@@ -10,6 +10,10 @@
 	<center>
 		<h3>Welcome ${user}, How're you?</h3>
 		<h3>Page Served on ${d}</h3>
+
+		<br> <a href="hello">Click here for Second view</a>
+
+
 	</center>
 
 </body>

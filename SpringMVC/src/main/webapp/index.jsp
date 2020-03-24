@@ -5,7 +5,8 @@
 	<br>
 	<a href="shHome">Homepage</a>
 	<br>
-	<a href="hello">Click here for one more view</a>
+	<br>
+	<a href="login">Click here to Login</a>
 
 </body>
 </html>
